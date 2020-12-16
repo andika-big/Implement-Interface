@@ -9,6 +9,9 @@ package InterfaceImplement;
  *
  * @author User
  */
-public class sapi {
-    
+public class sapi implements Hewan {
+
+     @Override
+     public void makan (){
+  }
 }

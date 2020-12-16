@@ -10,5 +10,7 @@ package InterfaceImplement;
  * @author User
  */
 public interface Hewan {
+    String respirasi = "oksigen";
     
+    void makan ();
 }
